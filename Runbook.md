@@ -17,6 +17,7 @@
  Search for IP Address common for Access Points/ Routers
  Mac AP: 00:11:6b:2d:9f:b7
  
-2. use airmon-ng to check for wifi interfaces
+2. Use airmon-ng to check for wifi interfaces
 
-3. 
+3. Stop any useless interfaces with the command:
+> airmon-ng stop <interface>
